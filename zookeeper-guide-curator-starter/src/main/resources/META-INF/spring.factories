@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.github.weipeng2k.zookeeper.guide.curator.starter.config.CuratorFrameworkAutoConfiguration

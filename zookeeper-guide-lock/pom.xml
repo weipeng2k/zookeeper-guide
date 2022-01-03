@@ -8,9 +8,10 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <description>ZK的ZNODE示例</description>
-    <artifactId>zookeeper-guide-znode</artifactId>
-    <name>zookeeper-guide-znode</name>
+    <description>ZK示例：Lock</description>
+
+    <artifactId>zookeeper-guide-lock</artifactId>
+    <name>zookeeper-guide-lock</name>
 
     <dependencies>
         <dependency>
@@ -42,4 +43,5 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
 </project>

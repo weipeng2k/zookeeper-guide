@@ -1,3 +1,5 @@
+package io.github.weipeng2k.zookeeper.guide.lock;
+
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.recipes.locks.InterProcessMutex;
 import org.apache.curator.framework.recipes.locks.InterProcessReadWriteLock;

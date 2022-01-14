@@ -1,4 +1,4 @@
-package io.github.weipeng2k.zookeeper.guide.znode;
+package io.github.weipeng2k.zookeeper.guide.watch;
 
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.api.CuratorWatcher;

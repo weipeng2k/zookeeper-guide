@@ -27,6 +27,7 @@
         <module>zookeeper-guide-znode</module>
         <module>zookeeper-guide-curator-starter</module>
         <module>zookeeper-guide-lock</module>
+        <module>zookeeper-guide-watch</module>
     </modules>
 
     <dependencyManagement>
